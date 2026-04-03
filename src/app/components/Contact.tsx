@@ -157,7 +157,7 @@ export function Contact() {
           transition={{ duration: 0.8, delay: 0.5 }}
           className="mt-16 pt-8 border-t border-slate-800 text-center text-slate-500"
         >
-          <p>© 2026 Luis Vicente. Built with React, TailwindCSS, and Motion.</p>
+          <p>© 2026 Luis Emmanuel Vicente. Built with React, TailwindCSS, and Motion.</p>
         </motion.div>
       </div>
     </section>
