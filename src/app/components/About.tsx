@@ -128,7 +128,7 @@ export function About() {
             </div>
           </div>
           <div>
-            <h3 className="text-3xl mb-4 text-white">Luis Vicente</h3>
+            <h3 className="text-3xl mb-4 text-white">Luis Emmanuel Vicente</h3>
             <p className="text-lg text-slate-400 mb-4 max-w-2xl leading-relaxed">
               A driven BS Information Systems student at the University of Santo Tomas with a strong foundation
               in full-stack development, data management, and financial technology. With experience spanning
