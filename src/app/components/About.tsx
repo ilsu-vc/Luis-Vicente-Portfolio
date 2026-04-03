@@ -122,7 +122,7 @@ export function About() {
               <div className="absolute -inset-1.5 bg-gradient-to-r from-blue-500 to-purple-600 rounded-2xl blur-sm opacity-60" />
               <img
                 src={profilePhoto}
-                alt="Luis Vicente"
+                alt="Luis Emmanuel Vicente"
                 className="relative w-48 h-48 md:w-56 md:h-56 rounded-2xl object-cover border-2 border-slate-800"
               />
             </div>
