@@ -51,7 +51,7 @@ export function Hero() {
           className="text-5xl md:text-8xl mb-2 tracking-tight"
         >
           <span className="bg-gradient-to-r from-white via-blue-100 to-purple-200 bg-clip-text text-transparent">
-            Luis Vicente
+            Luis Emmanuel Vicente
           </span>
         </motion.h1>
 
